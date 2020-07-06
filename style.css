@@ -39,10 +39,6 @@
 .categories img{
     width:100px;
 }
-h3{
-    text-align: center;
-    margin-bottom: 20px;
-}
 .card{
     border: none;
     box-shadow: 5px 5px 10px lightblue;
@@ -57,8 +53,17 @@ h3{
     height: 300px;
 
 }
+.text-warning{
+    text-align:justify;
+}
 #contact-us h6{
     color: gray;
+}
+.underline-block {
+    width: 100px;
+    height: 8px;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, #ff8206, #ffff00);
 }
 footer{
     text-align: center;
